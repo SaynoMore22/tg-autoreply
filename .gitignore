@@ -1,0 +1,8 @@
+.env
+data/
+config.json
+*.exe
+private.txt
+persona_contacts.md
+mutate.log
+mutate.err
